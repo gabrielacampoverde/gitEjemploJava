@@ -7,5 +7,6 @@ public class Main {
         int c = a + b;
         int d = a * b;
         int e = c * d;
+        int f = 1000;
     }
 }
