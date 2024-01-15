@@ -8,5 +8,7 @@ public class Main {
         int d = a * b;
         int e = c * d;
         int f = 1000;
+
+        int g = 9999;
     }
 }
