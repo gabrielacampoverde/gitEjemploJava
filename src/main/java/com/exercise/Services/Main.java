@@ -10,5 +10,7 @@ public class Main {
         int f = 1000;
 
         int g = 9999;
+
+        int h = 7777;
     }
 }
